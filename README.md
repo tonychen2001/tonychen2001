@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a fourth year Computer Science student at the University of Toronto. My current passion and interests are anything software related.
+
+📫 Contact me: tonychen1100@hotmail.com
+
 <!--
 **tonychen2001/tonychen2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
